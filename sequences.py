@@ -1,3 +1,3 @@
 name = ["Harry", "Ron", "Hermione"]
 
-print (name)
+print (name[0])
